@@ -120,7 +120,7 @@ It is not for granted that you are able to solve them without attending the (lec
 | 13/10 | 15:00-17:00 | Autumn break (no lab) | |
 | 15/10 | 10:00-12:00 | Autumn break (no lecture) | |
 | 15/10 | 13:00-15:00 | Autumn break (no lab) |
-| 20/10 | 13:00-15:00 | Lecture: To Be Decided | To Be Decided |
+| 20/10 | 13:00-15:00 | Lecture: helping with assignments (no lecture) |   |
 | 20/10 | 15:00-17:00 | Lab: Helping with group project and weeklies | |
 | 22/10 | 10:00-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L9-LocOfRef.pdf) | [Facultative reading: various scientific papers](facultative-material/Opt-Loc-Ref) |
 | 22/10 | 13:00-15:00 | Lab: help with group project, weeklies |
