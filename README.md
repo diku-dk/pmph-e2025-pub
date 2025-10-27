@@ -124,7 +124,7 @@ It is not for granted that you are able to solve them without attending the (lec
 | 20/10 | 15:00-17:00 | Lab: Helping with group project and weeklies | |
 | 22/10 | 10:00-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L9-LocOfRef.pdf) | [Facultative reading: various scientific papers](facultative-material/Opt-Loc-Ref) |
 | 22/10 | 13:00-15:00 | Lab: help with group project, weeklies |
-| 27/10 | 13:00-15:00 | Lecture: helping with group project and weeklies | you may read Tomasulo Algorithm (HWD) from Chapter 3 of "Parallel Computer Organization and Design" Book; [also on slides](slides/L9-OoOproc.pdf) |
+| 27/10 | 13:00-15:00 | Lecture: helping with group project and weeklies + Discussing student evaluations | you may read Tomasulo Algorithm (HWD) from Chapter 3 of "Parallel Computer Organization and Design" Book; [also on slides](slides/L10-OoOproc.pdf) |
 | 27/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
 | 29/10 | 10:00-12:00 | Lecture: helping with group project | |
 | 29/10 | 13:00-15:00 | Lab: help with group project |
